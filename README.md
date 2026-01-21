@@ -32,9 +32,11 @@ I am a final-year Software Engineering student at the **Federal University of Pa
 
 ### Key Projects
 
-* **Avico Digital Magazine (TCC):** A complex Scientific Magazine Management System built with **Laravel 8** and **AWS S3**, featuring a full editorial workflow and Role-Based Access Control (RBAC).
-* **Demand Management System:** An enterprise-level CRUD application developed using **Laravel 10**, focusing on data integrity and secure authorization policies.
-* **Reliable TCP over UDP:** A Python implementation of transport layer controls (Flow, Congestion, and Reliability) over a connectionless protocol.
+* **[VideoVerse](https://github.com/BiancaMR04/VideoVerse):** A video streaming platform, made as a **collaborative university group project** focused on teamwork and agile development, developed with Laravel and allowing users to upload, watch, like, comment, and subscribe to channels, featuring an intuitive and user-friendly interface.
+* **[Demand Management System](https://github.com/EduardoSalbego/demand-management-system):** An enterprise-level CRUD application, developed as a **one-week onboarding challenge** using **Laravel 10**, focusing on data integrity and secure authorization policies.
+* **[Reliable TCP over UDP](https://github.com/EduardoSalbego/tcp-udp-network-control):** An academic project developed in a pair using Python implementation of transport layer controls (Flow, Congestion, and Reliability) over a connectionless protocol.
+* **[Avico Digital Magazine](https://github.com/EduardoSalbego/revista-avico) (_in progress_):** A complex Scientific Magazine Management System built with **Laravel 8** and **AWS S3**, featuring a full editorial workflow and Role-Based Access Control (RBAC), currently being adapted as my Graduation Thesis (TCC).
+* **[Medical Notes NLP API](https://github.com/EduardoSalbego/medical-notes-nlp-api) (_in progress_):** A personal project designed to deepen expertise in Laravel 11 and Python (spaCy) integration. This HIPAA-compliant API processes medical notes featuring RBAC, Data Masking, and a Dockerized microservices architecture with CI/CD.
 
 ---
 
