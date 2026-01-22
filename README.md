@@ -2,7 +2,7 @@
 
 **Software Engineering Intern | Full-Stack Developer | Final Year Student @ UNIPAMPA**
 
-I am a final-year Software Engineering student at the **Federal University of Pampa (UNIPAMPA)**. I specialize in building robust web applications and solving complex technical challenges, with a current focus on **Full-Stack Development** and **Cybersecurity**.
+I am a final-year Software Engineering student at the **Universidade Fderal do Pampa (UNIPAMPA)**. I specialize in building robust web applications and solving complex technical challenges, with a current focus on **Full-Stack Development** and **Cybersecurity**.
 
 ---
 
