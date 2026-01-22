@@ -46,9 +46,3 @@ I am a final-year Software Engineering student at the **Federal University of Pa
 * **Interests:** Artificial Intelligence, Machine Learning for Intrusion Detection Systems (IDS), and Network Security.
 * **Target Location:** Actively seeking opportunities in the **Washington D.C. / Bethesda** area or remote roles.
 * **Languages:** Native Portuguese, Fluent English, and currently learning **Spanish**.
-
----
-
-### Connect with me
-* **LinkedIn:** [linkedin.com/in/eduardo-salbego-638977236/](https://www.linkedin.com/in/eduardo-salbego-638977236/)
-* **Email:** eduardo.salbego2@hotmail.com
