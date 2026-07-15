@@ -1,48 +1,45 @@
 # Hi there, I'm Eduardo Salbego 👋
 
-**Software Engineering Intern | Full-Stack Developer | Final Year Student @ UNIPAMPA**
+**Software Engineer | Full-Stack Developer | Graduation Thesis Defended (Grade 10/10) 🎓**
 
-I am a final-year Software Engineering student at the **Universidade Federal do Pampa (UNIPAMPA)**. I specialize in building robust web applications and solving complex technical challenges, with a current focus on **Full-Stack Development** and **Cybersecurity**.
+I am a Software Engineering graduate from the **Universidade Federal do Pampa (UNIPAMPA)**. I specialize in building scalable, secure web applications and designing robust database architectures, with a strong focus on **Full-Stack Development**, **Applied AI**, and **System Security**.
 
 ---
 
 ### Professional Experience
 
-* **Software Engineering Intern @ Guaipeca Dev (Software Factory)**
-  *(Jan 2026 – Present)*
-  * **Software Development:** Actively developing solutions following industry best practices within a dedicated "Software Factory" environment.
-  * **Technical Documentation:** Creating comprehensive project documentation to ensure long-term system maintainability.
-  * **Problem Solving:** Performing technical analysis and resolving complex software issues to optimize application performance.
-  * **Dedication:** Managing a 30-hour weekly workload while maintaining high academic standards in my final year.
+* **Software Engineering Intern @ Eduardo Cabezudo Vilhalba (Software Development)**
+  *(Jan 2026 – Concluded)*
+  * **Developed** complex business logic and domain services using PHP and Laravel 12 for commercial inventory and gym management systems.
+  * **Optimized** PostgreSQL/MySQL database performance through query refactoring and caching strategies, drastically reducing report generation speeds.
+  * **Built** secure billing modules and PDF invoice protection logic for a digital signage management platform.
+  * **Configured and managed** local containerized environments using Docker and WSL, eliminating cross-platform environment drift.
 
 ---
 
 ### Technical Stack
 
-#### Languages & Frameworks
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+#### Core Focus (Web Engineering & DevOps)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### Frontend & Design
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+#### Frontend & Tools
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-#### Database & Infrastructure
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### Key Projects
-
-* **[VideoVerse](https://github.com/BiancaMR04/VideoVerse):** A video streaming platform, made as a **collaborative university group project** focused on teamwork and agile development, developed with Laravel and allowing users to upload, watch, like, comment, and subscribe to channels, featuring an intuitive and user-friendly interface.
-* **[Demand Management System](https://github.com/EduardoSalbego/demand-management-system):** An enterprise-level CRUD application, developed as a **one-week onboarding challenge** using **Laravel 10**, focusing on data integrity and secure authorization policies.
-* **[Reliable TCP over UDP](https://github.com/EduardoSalbego/tcp-udp-network-control):** An academic project developed in a pair using Python implementation of transport layer controls (Flow, Congestion, and Reliability) over a connectionless protocol.
-* **[Avico Digital Magazine](https://github.com/EduardoSalbego/revista-avico) (_in progress_):** A complex Scientific Magazine Management System built with **Laravel 8** and **AWS S3**, featuring a full editorial workflow and Role-Based Access Control (RBAC), currently being adapted as my Graduation Thesis (TCC).
-* **[Medical Notes NLP API](https://github.com/EduardoSalbego/medical-notes-nlp-api) (_in progress_):** A personal project designed to deepen expertise in Laravel 11 and Python (spaCy) integration. This HIPAA-compliant API processes medical notes featuring RBAC, Data Masking, and a Dockerized microservices architecture with CI/CD.
+*Academic Exposure:* Java, C#, C++, AWS.
 
 ---
 
-### Goals & Interests
+### Featured Projects
 
-* **Currently Working on:** My Graduation Thesis (TCC) focused on digital academic publishing.
-* **Interests:** Artificial Intelligence, Machine Learning for Intrusion Detection Systems (IDS), and Network Security.
-* **Target Location:** Actively seeking opportunities in the **Washington D.C. / Bethesda** area or remote roles.
-* **Languages:** Native Portuguese, Fluent English, and currently learning **Spanish**.
+* **[ReVICO — Online Scientific Journal Platform](https://github.com/EduardoSalbego/revista-avico):** My Graduation Thesis (TCC) developed for the **AVICO Association** and awarded a **10/10 grade**. A complete journal management system with a double-blind peer review workflow, built-in subscription paywall simulation, and multi-layered Role-Based Access Control (RBAC) using **Laravel** and **Docker**.
+* **[Medical Notes NLP API](https://github.com/EduardoSalbego/medical-notes-nlp-api):** A HIPAA-compliant microservices architecture integrating **Laravel 11** and **Python (spaCy)**. Features automatic data masking of sensitive patient data, secure RBAC, Docker containerization, and fully automated CI/CD pipelines.
+* **[Genetic Algorithm for Knapsack Optimization](https://github.com/EduardoSalbego/):** An AI modeling project designed to solve the Multiple Knapsack Problem using custom Genetic Algorithms, focusing on computational efficiency and heuristics optimization.
+* **[Reliable TCP over UDP](https://github.com/EduardoSalbego/tcp-udp-network-control):** A network engineering project implementing strict transport layer controls (Flow, Congestion, and Reliability control mechanisms) over a connectionless protocol using pure Python.
+* **[Demand Management System](https://github.com/EduardoSalbego/demand-management-system):** An enterprise CRUD application developed as a high-standard onboarding challenge using **Laravel**, focusing heavily on data integrity and strict authorization policies.
+
+---
+
+### Languages & Goals
+
+* **Target Location:** Open to relocation to the **Washington D.C. Metro Area** or working in global remote setups.
+* **Languages:** Portuguese (Native), English (Fluent), Spanish (Intermediate/Learning).
