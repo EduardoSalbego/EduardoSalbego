@@ -29,17 +29,16 @@ I am a Software Engineering graduate from the **Universidade Federal do Pampa (U
 
 ---
 
-### Featured Projects
+### My Main Projects
 
 * **[ReVICO — Online Scientific Journal Platform](https://github.com/EduardoSalbego/revista-avico):** My Graduation Thesis (TCC) developed for the **AVICO Association** and awarded a **10/10 grade**. A complete journal management system with a double-blind peer review workflow, built-in subscription paywall simulation, and multi-layered Role-Based Access Control (RBAC) using **Laravel** and **Docker**.
+* **[High-Concurrency Booking System](https://github.com/EduardoSalbego/ticket-lock-system):** A race-condition-proof booking engine built to solve the "Ticketmaster problem", guaranteeing exact slot consistency under massive concurrent load (5,000+ simultaneous requests). Built with **Laravel 12 + Octane (FrankenPHP)**, **Redis** atomic locks, **RabbitMQ** async queues, and **PostgreSQL** pessimistic locking, with load-test benchmarks (k6) comparing unprotected vs. shielded architectures.
 * **[Medical Notes NLP API](https://github.com/EduardoSalbego/medical-notes-nlp-api):** A HIPAA-compliant microservices architecture integrating **Laravel 11** and **Python (spaCy)**. Features automatic data masking of sensitive patient data, secure RBAC, Docker containerization, and fully automated CI/CD pipelines.
-* **[Genetic Algorithm for Knapsack Optimization](https://github.com/EduardoSalbego/):** An AI modeling project designed to solve the Multiple Knapsack Problem using custom Genetic Algorithms, focusing on computational efficiency and heuristics optimization.
-* **[Reliable TCP over UDP](https://github.com/EduardoSalbego/tcp-udp-network-control):** A network engineering project implementing strict transport layer controls (Flow, Congestion, and Reliability control mechanisms) over a connectionless protocol using pure Python.
-* **[Demand Management System](https://github.com/EduardoSalbego/demand-management-system):** An enterprise CRUD application developed as a high-standard onboarding challenge using **Laravel**, focusing heavily on data integrity and strict authorization policies.
 
 ---
 
-### Languages & Goals
+### Languages
 
-* **Target Location:** Open to relocation to the **Washington D.C. Metro Area** or working in global remote setups.
-* **Languages:** Portuguese (Native), English (Fluent), Spanish (Intermediate/Learning).
+* **Portuguese:** Native
+* **English** Fluent
+* **Spanish** Intermediate/Learning
