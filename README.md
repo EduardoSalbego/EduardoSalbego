@@ -8,8 +8,8 @@ I am a Software Engineering graduate from the **Universidade Federal do Pampa (U
 
 ### Professional Experience
 
-* **Software Engineering Intern @ Eduardo Cabezudo Vilhalba (Software Development)**
-  *(Jan 2026 – Concluded)*
+* **FullStack Developer Intern @ Guaipeca Dev (Software Development)**
+  *(Jan 2026 – Jul 2026)*
   * **Developed** complex business logic and domain services using PHP and Laravel 12 for commercial inventory and gym management systems.
   * **Optimized** PostgreSQL/MySQL database performance through query refactoring and caching strategies, drastically reducing report generation speeds.
   * **Built** secure billing modules and PDF invoice protection logic for a digital signage management platform.
@@ -42,3 +42,10 @@ I am a Software Engineering graduate from the **Universidade Federal do Pampa (U
 * **Portuguese:** Native
 * **English** Fluent
 * **Spanish** Intermediate/Learning
+
+---
+
+### Let's Connect! 🤝
+
+* **LinkedIn:** [in/eduardo-salbego](https://linkedin.com/in/eduardo-salbego)
+* **Email:** [eduardossalbego@gmail.com](mailto:eduardossalbego@gmail.com)
