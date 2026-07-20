@@ -1,8 +1,8 @@
 # Hi there, I'm Eduardo Salbego 👋
 
-**Software Engineer | Full-Stack Developer | Graduation Thesis Defended (Grade 10/10) 🎓**
+**Software Engineer | Full-Stack Developer | PHP/Laravel · Python/FastAPI**
 
-I am a Software Engineering graduate from the **Universidade Federal do Pampa (UNIPAMPA)**. I specialize in building scalable, secure web applications and designing robust database architectures, with a strong focus on **Full-Stack Development**, **Applied AI**, and **System Security**.
+I am a Software Engineering graduate from the **Universidade Federal do Pampa (UNIPAMPA)**, where I graduated with a perfect 10/10 on my bachelor's thesis 🎓. I specialize in building scalable, secure web applications and designing robust database architectures, with a strong focus on **Full-Stack Development**, **Applied AI**, and **System Security**.
 
 ---
 
